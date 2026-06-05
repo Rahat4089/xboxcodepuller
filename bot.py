@@ -30,7 +30,7 @@ import aiohttp
 # ============================================================================
 API_ID = 23933044
 API_HASH = "6df11147cbec7d62a323f0f498c8c03a"
-BOT_TOKEN = "8492422408:AAHWjMnFkl8uZ4iL_g0GJOjMRxCj-DWJTgw"
+BOT_TOKEN = "8623187143:AAF0M6zKS4Yjipm8hux4qzOA-YrN7-v7gsg"
 
 # Update interval in seconds (increased to 3 to avoid flood)
 UPDATE_INTERVAL = 3
